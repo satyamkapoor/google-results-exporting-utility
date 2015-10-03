@@ -25,7 +25,17 @@
 <form role="form"  method="POST" action="dd.php" style="padding:1.5em;">
 
 <b>Query</b><br>(Please use "+" instead of space)	<input type="text" name="query1" class="form-control" required placeholder="Barack+Obama+in+Washington"><br> <br><br>
-<b>Page number</b> <br>(1 page = 10 Results)<br><input type="number" class="form-control" name="count" value="1" required><br><br>
+<b>Page number</b> <br>(1 page = 10 Results)<br><input type="number" class="form-control" name="count" value="1" required><br>
+
+<b>Output format</b><br>
+<div class="radio" style="display:inline-block;">
+      <label><input type="radio" name="optradio" value="csv" >csv</label>
+    </div>
+    <div class="radio" style="display:inline-block;padding-left:10px;">
+      <label><input type="radio" name="optradio" value="web" checked="">web page</label>
+    </div>
+
+<br>
 	<button type="submit"  class="btn btn-primary" >Generate Results</button>
 </form>
 <br><br>
