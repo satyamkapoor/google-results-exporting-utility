@@ -6,7 +6,9 @@ and thus I tried to achieve this through php and simple html dom. Thought to upl
 <br>
 Enjoy :)
 
+
+
 <br><br>
-P.S : If you donot have a webserver installed and need the results, you may use the
+P.S : If you do not have a webserver installed and need the results, you may use the
 online copy of this tool on <a href="http://greu.satyamkapoor.com">http://greu.satyamkapoor.com</a> though google usually blocks it after 5-6 cycles for an hour. <br>
 </p>
