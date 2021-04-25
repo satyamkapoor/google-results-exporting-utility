@@ -1,3 +1,5 @@
+<b>Deprecated: no development = dead</b>
+
 <h3>Google Search Results Exporting Utility</h3>
 <br>
 <p>Hello, <br> While I was working on my final year project, one of the scholars in the lab
